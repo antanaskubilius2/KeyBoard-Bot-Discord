@@ -1,0 +1,27 @@
+h1 {
+    text-align-last: center;
+}
+
+body {
+    color: black;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.tittle {
+    font-size: 55px;
+}
+
+.command{
+    color: darkblue
+
+}
+
+.status {
+    color: green;
+}
+
+html {
+    color: darkblue
+    
+}
