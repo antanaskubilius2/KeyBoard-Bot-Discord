@@ -27,3 +27,4 @@ Prefix "!"
 Thank you 
 
 `https://discord.gg/byBCaCa2kD`
+`code kept in diffrent repo because this project is not open source. this is the public version of the discord bot repo `
